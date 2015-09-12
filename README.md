@@ -7,4 +7,4 @@ Solves 8 puzzle using different algorithms. It allows to compare algorithm's mem
 -  Simulated Annealing
 
 
-![screenshot.png](screenshot.png)
+![screenshot.jpg](screenshot.jpg)
