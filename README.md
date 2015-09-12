@@ -1,4 +1,4 @@
-# 8puzzle solver (Artificial intelligence)
+# 8 puzzle solver (Artificial intelligence)
 Solves 8 puzzle using different algorithms. It allows to compare algorithm's memory and time usage.
 
 ## Supported algoritms
