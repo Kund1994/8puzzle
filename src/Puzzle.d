@@ -1,3 +1,10 @@
+/**
+	Puzzle window
+	
+	Copyright: © 2012 Oleh Havrys
+	License: Subject to the terms of the MIT license, as written in the included LICENSE file.
+	Authors: Oleh Havrys
+*/
 module Puzzle;
 
 import gtk.Button;

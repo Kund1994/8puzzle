@@ -1,3 +1,10 @@
+/**
+	Solving algorithms
+	
+	Copyright: © 2012 Oleh Havrys
+	License: Subject to the terms of the MIT license, as written in the included LICENSE file.
+	Authors: Oleh Havrys
+*/
 module ai.Core;
 
 alias uint[3][3] m3;
