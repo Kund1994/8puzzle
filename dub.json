@@ -1,0 +1,7 @@
+{
+	"name" : "ai8puzzle",
+	"description" : "8 puzzle solver.",
+	"dependencies" : {
+		"gtk-d": "~>3.1.4"
+	}
+}
